@@ -1,11 +1,12 @@
 ---
 layout: device
 title:  "Motorola Moto G 2013"
-codename: xt1032
-downloadfolder: xt1032
+codename: falcon
+downloadfolder: falcon
+devicetree: https://github.com/TeamWin/android_device_motorola_falcon
 oldurl: http://teamw.in/project/twrp2/233
 supportstatus: Current
-maintainer: None
+maintainer: luca020400
 oem: Motorola
 ---
 

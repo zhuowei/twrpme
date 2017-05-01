@@ -2,7 +2,7 @@
 layout: device
 title:  "Asus Transformer TF300T"
 codename: tf300t
-downloadfolder: tf300t
+downloadfolder: "TF300T|tf300t|TF300TG (3G model)|tf300tg"
 oldurl: http://teamw.in/project/twrp2/97
 supportstatus: No Longer Updated
 maintainer: None
@@ -53,5 +53,3 @@ xdathread: "http://forum.xda-developers.com/showthread.php?t=1672108"
 <p class="text">adb reboot bootloader</p>
 <p class="text">You should now be in fastboot mode. Download the correct blob file and copy the file into the same folder as your adb and fastboot binaries. Rename the image to twrp.blob and type:</p>
 <p class="text">fastboot -i 0x0b05 flash staging twrp.img<p></p>fastboot reboot</p>
-
-

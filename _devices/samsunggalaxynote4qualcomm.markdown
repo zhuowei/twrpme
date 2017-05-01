@@ -2,6 +2,7 @@
 layout: device
 title:  "Samsung Galaxy Note 4 Qualcomm"
 codename: trlte
+downloadfolder: "Canada|trltecan|India|trltedt|International (N910-F)|trltexx|Sprint|trltespr|T-Mobile|trltetmo|Verizon|trltevzw|US Cellular|trlteusc|International Duos|trlteduoszh"
 oldurl: http://teamw.in/project/twrp2/266
 supportstatus: Current
 maintainer: bigbiff
@@ -88,6 +89,17 @@ xdathread: "http://forum.xda-developers.com/note-4/orig-development/tool-utility
   </li>
 {% endfor %}
 </ul>
+<p class="text">International Duos:</p>
+<ul>
+{% for mirror in site.data.mirrors %}
+  <li>
+    <a href="{{ mirror.baseurl }}trlteduoszh">
+      {{ mirror.description }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 
 {% include twrpinstall.html %}
 

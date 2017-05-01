@@ -2,10 +2,10 @@
 layout: device
 title:  "LG G2"
 codename: G2
-downloadfolder: G2
+downloadfolder: "AT&amp;T USA|g2att|Sprint USA|g2spr|T-Mobile USA|g2tmo|Verizon USA|g2vzw|Bell Canada|g2bell|Rogers Canada|g2rog"
 oldurl: http://teamw.in/project/twrp2/197
-supportstatus: Current
-maintainer: Dees_Troy
+supportstatus: No longer updated
+maintainer: None
 oem: LG
 ddof: /dev/block/platform/msm_sdcc.1/by-name/recovery
 ---

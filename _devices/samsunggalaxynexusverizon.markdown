@@ -5,7 +5,7 @@ codename: toro
 downloadfolder: toro
 oldurl: http://teamw.in/project/twrp2/89
 supportstatus: Current
-maintainer: None
+maintainer: Ziyan
 oem: Samsung
 devicetree: https://github.com/TeamWin/device_samsung_toro
 xdathread: "http://forum.xda-developers.com/galaxy-nexus/verizon-develop/recovery-twrp-2-7-1-0-touch-recovery-t1615168"

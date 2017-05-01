@@ -2,11 +2,12 @@
 layout: device
 title:  "HTC One m7 Dual SIM"
 codename: m7cd
-downloadfolder: m7cdtu
+downloadfolder: "m7cdtu|m7cdtu|m7cdug|m7cdug|m7cdwg|m7cdwg"
 oldurl: http://teamw.in/project/twrp2/278
 supportstatus: Current
-maintainer: None
+maintainer: Bruno Martins (bgcngm)
 oem: HTC
+xdathread: "http://forum.xda-developers.com/htc-one/development/recovery-htc-one-dual-sim-802w-802d-t2982133"
 ddof: "/dev/block/mmcblk0p37"
 ---
 
