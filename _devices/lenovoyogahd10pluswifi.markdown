@@ -1,13 +1,12 @@
 ---
 layout: device
-title:  "HTC Explorer"
-codename: pico
-downloadfolder: pico
-oldurl: http://teamw.in/project/twrp2/163
+title:  "Lenovo Yoga HD 10+ Wi-Fi"
+codename: b8080f
+downloadfolder: b8080f
 supportstatus: Current
-maintainer: msf-jarvis
-oem: HTC
-xdathread: "http://forum.xda-developers.com/htc-explorer/orig-development/twrp-2-8-7-0-twrp-htc-explorer-t3282943"
+maintainer: KHendrik
+oem: Lenovo
+devicetree: https://github.com/teamwin/android_device_lenovo_b8080f
 ---
 
 {% include disclaimer.html %}
